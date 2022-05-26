@@ -74,7 +74,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VMVVDYXP
+DocumentUniqueId=ELDHVPOT
 
 [Document3]
 DocumentPath=Flip.BomDoc
@@ -92,6 +92,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Flip\Design Rule Check - Flip.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
